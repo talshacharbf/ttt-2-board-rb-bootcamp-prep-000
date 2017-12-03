@@ -3,3 +3,6 @@ def greeting
 end
 
 greeting
+gretting
+gretting
+gretting
